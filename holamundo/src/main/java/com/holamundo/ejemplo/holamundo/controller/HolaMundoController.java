@@ -9,6 +9,6 @@ public class HolaMundoController {
 
     @GetMapping("/hola")
     public String holaMundo (){
-        return "Hola Mundo, soy David Diaz || 16-03-2026 XD";
+        return "Hola Mundo, soy David Diaz || 16-03-2026 XD ";
     }
 }
